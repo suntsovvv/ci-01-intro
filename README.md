@@ -9,7 +9,7 @@
 7. Done -> Closed, Open.
 
 ![image](https://github.com/suntsovvv/ci-01-intro/assets/154943765/90e2de19-5497-4f61-bea2-27aa4254786a)
-https://github.com/suntsovvv/ci-01-intro/blob/main/bug.vml
+https://github.com/suntsovvv/ci-01-intro/blob/main/bug.vml   
 Остальные задачи должны проходить по упрощённому workflow:
 
 1. Open -> On develop.
