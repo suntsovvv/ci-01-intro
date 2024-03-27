@@ -19,7 +19,7 @@ https://github.com/suntsovvv/ci-01-intro/blob/main/bug.vml
 5. Done -> Closed, Open.
 
 ![image](https://github.com/suntsovvv/ci-01-intro/assets/154943765/83dadc30-f9ca-4361-b216-51dfea28e3f7)   
-
+https://github.com/suntsovvv/ci-01-intro/blob/main/all.xml
 
 
    
